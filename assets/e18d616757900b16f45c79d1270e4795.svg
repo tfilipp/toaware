@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="174.33333" height="41.60228" viewBox="0,0,174.33333,41.60228">
+  <g transform="translate(-152.83336,-159.19886)">
+    <g stroke="none" stroke-miterlimit="10">
+      <path d="M152.83336,190.99489c0,-23.0363 0,-8.32723 0,-21.39546c0,-5.25874 4.44557,-10.40057 9.50909,-10.40057c16.78081,0 125.03019,0 155.31515,0c5.98157,0 9.50909,5.14183 9.50909,10.40057c0,13.06823 0,-1.64084 0,21.39546c0,6.06777 -3.29454,9.80625 -8.91477,9.80625c-29.63958,0 -139.01735,0 -155.90947,0c-5.0635,0 -9.50909,-3.73848 -9.50909,-9.80625z" fill="#9c4d3f" stroke-width="0"></path>
+      <text transform="translate(158.2984,184.6338) scale(0.38615,0.38615)" font-size="40" xml:space="preserve" fill="#ffffff" stroke-width="1" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">Следующий предмет</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="382" height="244" viewBox="0,0,382,244">
+  <g transform="translate(-49,-58)">
+    <g stroke-miterlimit="10">
+      <path d="M49,292.3c0,-41.3002 0,-201.43679 0,-224.5c0,-5.42384 4.83887,-9.8 11.2,-9.8c32.48164,0 299.34054,0 359,0c7.5664,0 11.8,5.63552 11.8,12.3c0,25.32455 0,183.91023 0,223c0,5.55783 -4.64916,8.7 -10.8,8.7c-32.30241,0 -304.60077,0 -361,0c-6.56078,0 -10.2,-3.51924 -10.2,-9.7z" fill="#ffffff" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+      <path d="M138.82271,283.925c0,-9.69022 0,-33.50285 0,-39c0,-2.21209 1.87003,-4.375 4,-4.375c7.05885,0 46.26063,0 59,0c2.51615,0 4,2.16291 4,4.375c0,5.49715 0,29.30978 0,39c0,2.55241 -1.38585,4.125 -3.75,4.125c-12.46789,0 -52.14433,0 -59.25,0c-2.12996,0 -4,-1.57259 -4,-4.125z" fill="#eeeff0" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+      <path d="M213.07271,283.925c0,-9.69022 0,-33.50285 0,-39c0,-2.21209 1.89794,-4.375 4.0597,-4.375c7.16421,0 46.95109,0 59.8806,0c2.5537,0 4.0597,2.16291 4.0597,4.375c0,5.49715 0,29.30978 0,39c0,2.55241 -1.40654,4.125 -3.80597,4.125c-12.65398,0 -52.9226,0 -60.13433,0c-2.16175,0 -4.0597,-1.57259 -4.0597,-4.125z" fill="#eeeff0" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+      <path d="M63.82271,283.925c0,-9.69022 0,-33.50285 0,-39c0,-2.21209 1.89795,-4.375 4.0597,-4.375c7.16421,0 46.95109,0 59.88059,0c2.5537,0 4.05971,2.16291 4.05971,4.375c0,5.49715 0,29.30978 0,39c0,2.55241 -1.40654,4.125 -3.80597,4.125c-12.65398,0 -52.9226,0 -60.13433,0c-2.16175,0 -4.0597,-1.57259 -4.0597,-4.125z" fill="#eeeff0" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+      <g>
+        <path d="M117.47687,278.71639c0,-3.31371 2.68629,-6 6,-6c3.31371,0 6,2.68629 6,6c0,3.31371 -2.68629,6 -6,6c-3.31371,0 -6,-2.68629 -6,-6z" fill="#38bd60" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+        <path d="M126.78937,276.3125c0,0 -2.9304,3.93286 -3.64281,4.77287c-0.31083,0.36651 -2.98219,-2.27287 -2.98219,-2.27287" fill="none" stroke="#ffffff" stroke-width="1" stroke-linecap="round"></path>
+      </g>
+      <g>
+        <path d="M263.74493,235.51345c0,-2.60068 0,-13.15824 0,-14.63358c0,-0.59368 0.49309,-1.17417 1.05472,-1.17417c1.86129,0 12.19808,0 15.55721,0c0.66346,0 1.05473,0.58049 1.05473,1.17417c0,1.47534 0,12.0329 0,14.63358c0,0.68502 -0.36542,1.10708 -0.98881,1.10708c-3.28755,0 -13.7495,0 -15.62314,0c-0.56163,0 -1.05472,-0.42206 -1.05472,-1.10708z" fill="#eeeff0" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+        <path d="M270.6616,224.14228l3.95833,3.95833l-4.08333,4.08333" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="round"></path>
+      </g>
+      <g>
+        <path d="M259.1902,236.62052c-1.87364,0 -12.33558,0 -15.62314,0c-0.62338,0 -0.9888,-0.42205 -0.9888,-1.10707c0,-2.60068 0,-13.15825 0,-14.63359c0,-0.59368 0.39126,-1.17417 1.05472,-1.17417c3.35913,0 13.69593,0 15.55722,0c0.56163,0 1.05472,0.58049 1.05472,1.17417c0,1.47534 0,12.03291 0,14.63359c0,0.68502 -0.4931,1.10707 -1.05472,1.10707z" fill="#fbfbfb" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+        <path d="M253.45326,232.18394l-4.08334,-4.08334l3.95834,-3.95834" fill="none" stroke="#c2c4c6" stroke-width="1" stroke-linecap="round"></path>
+      </g>
+      <path d="M63.82271,207.55c0,-12.02575 0,-52.86222 0,-60.33333c0,-2.29115 1.19868,-4.33333 3.41666,-4.33333c26.05256,0 192.73764,0 209.33333,0c2.61909,0 4.5,1.69333 4.5,3.66667c0,6.92186 0,47.36511 0,60.33333c0,2.51786 -1.5798,4 -3.83334,4c-15.56919,0 -185.27665,0 -210.33333,0c-2.00456,0 -3.08333,-1.2231 -3.08333,-3.33333z" fill="none" stroke="#cfd2d5" stroke-width="0.5" stroke-linecap="butt"></path>
+      <text transform="translate(63.65604,231.05539) scale(0.18226,0.16728)" font-size="40" xml:space="preserve" fill="#000000" stroke="#000000" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">КАРТИНКА ПРОЕКТА</tspan>
+      </text>
+      <text transform="translate(63.32271,136.38872) scale(0.18227,0.16729)" font-size="40" xml:space="preserve" fill="#000000" stroke="#000000" stroke-width="0" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">ОПИСАНИЕ</tspan>
+      </text>
+      <text transform="translate(67.57271,115.5669) scale(0.18073,0.18073)" font-size="40" xml:space="preserve" fill="#000000" stroke="none" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">Мы против воровства проектов!</tspan>
+      </text>
+      <path d="M63.82271,108.21667c0,-2.29115 1.19868,-4.33333 3.41666,-4.33333c26.05256,0 192.73764,0 209.33333,0c2.61909,0 4.5,1.69333 4.5,3.66667c0,6.92186 0,-3.30156 0,9.66666c0,2.51786 -1.5798,4 -3.83334,4c-15.56919,0 -185.27665,0 -210.33333,0c-2.00456,0 -3.08333,-1.2231 -3.08333,-3.33333c0,0 0.00001,-2.19557 0.00001,-9.66667z" fill="none" stroke="#cfd2d5" stroke-width="0.5" stroke-linecap="butt"></path>
+      <text transform="translate(63.57271,98.12865) scale(0.17327,0.16094)" font-size="40" xml:space="preserve" fill="#000000" stroke="none" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">НАЗВАНИЕ</tspan>
+      </text>
+      <text transform="translate(63.90604,82.9619) scale(0.28586,0.26206)" font-size="40" xml:space="preserve" fill="#000000" stroke="#000000" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">Описание и публикация</tspan>
+      </text>
+      <text transform="translate(174.90604,97.98736) scale(0.18793,0.17318)" font-size="40" xml:space="preserve" fill="#9a9a9a" stroke="none" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">Сохранено 02/08/2025, 17:35</tspan>
+      </text>
+      <path d="M301.14008,246.925c0,-14.95034 0,-63.56496 0,-72.25c0,-2.59536 1.81716,-4.875 4.125,-4.875c10.53257,0 88.56358,0 108,0c2.79207,0 4.375,2.14899 4.375,4.625c0,8.52587 0,57.48798 0,72.5c0,2.7622 -1.30102,4.375 -3.625,4.375c-18.19669,0 -99.10919,0 -109.25,0c-2.0494,0 -3.625,-1.61301 -3.625,-4.375z" fill="#edf7ff" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+      <text transform="translate(309.36438,198.36656) scale(0.17647,0.18611)" font-size="40" xml:space="preserve" fill="#000000" stroke="none" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">Если не хочешь, чтобы твой</tspan>
+        <tspan x="0" dy="46.150000000000006px">проект украли, не забудь </tspan>
+        <tspan x="0" dy="46.150000000000006px">отключить ремиксы!</tspan>
+      </text>
+      <g stroke="none" stroke-linecap="butt">
+        <path d="M306.07271,236.925c0,-9.69022 0,-3.50285 0,-9c0,-2.21209 1.87003,-4.375 4,-4.375c7.05885,0 46.26063,0 59,0c2.51615,0 4,2.16291 4,4.375c0,5.49715 0,-0.69022 0,9c0,2.55241 -1.38585,4.125 -3.75,4.125c-12.46789,0 -52.14433,0 -59.25,0c-2.12996,0 -4,-1.57259 -4,-4.125z" fill="#833ae0" stroke-width="0"></path>
+        <text transform="translate(322.56271,234.76797) scale(0.21391,0.21391)" font-size="40" xml:space="preserve" fill="#ffffff" stroke-width="1" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+          <tspan x="0" dy="0">Хорошо</tspan>
+        </text>
+      </g>
+      <text transform="translate(300.72271,98.13965) scale(0.17872,0.17587)" font-size="40" xml:space="preserve" fill="#000000" stroke="none" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">ПУБЛИКАЦИЯ ПРОЕКТА</tspan>
+      </text>
+      <text transform="translate(69.55213,154.16119) scale(0.19018,0.19018)" font-size="40" xml:space="preserve" fill="#000000" stroke="#000000" stroke-width="3" stroke-linecap="butt" font-family="&quot;JetBrains Mono&quot;, Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">Без ремиксов!</tspan>
+      </text>
+      <text transform="translate(344.61243,140.8286) scale(0.30139,0.30595)" font-size="40" xml:space="preserve" fill="#000000" stroke="none" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">отключить </tspan>
+        <tspan x="0" dy="48px">ремиксы</tspan>
+      </text>
+      <path d="M301.17753,154.57562c0,-6.56594 0,-16.44168 0,-20.15124c0,-2.80444 2.98485,-6.25387 5.57223,-6.25387c3.95389,0 15.65453,0 23.03202,0c3.70184,0 6.31525,3.00827 6.31525,5.55899c0,3.66723 0,14.04909 0,20.84612c0,3.64136 -2.2769,6.25387 -5.57227,6.25387c-6.96456,0 -18.47806,0 -22.66049,0c-2.9985,0 -6.68673,-2.62007 -6.68673,-6.25387z" fill="#ffffff" stroke="#cfd2d5" stroke-width="1.5" stroke-linecap="butt"></path>
+      <path d="M301.23938,116.925c0,-9.69022 0,-3.50285 0,-9c0,-2.21209 1.87003,-4.375 4,-4.375c7.05885,0 52.59396,0 65.33333,0c2.51615,0 4,2.16291 4,4.375c0,5.49715 0,-0.69022 0,9c0,2.55241 -1.38585,4.125 -3.75,4.125c-12.46789,0 -58.47766,0 -65.58333,0c-2.12996,0 -4,-1.57259 -4,-4.125z" fill="#833ae0" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+      <text transform="translate(315.62189,114.47516) scale(0.18853,0.18853)" font-size="40" xml:space="preserve" fill="#ffffff" stroke="none" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">В зал славы</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

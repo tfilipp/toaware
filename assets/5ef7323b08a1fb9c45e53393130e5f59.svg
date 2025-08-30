@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="291.26177" height="39.41987" viewBox="0,0,291.26177,39.41987">
+  <defs>
+    <linearGradient x1="93.90294" y1="180" x2="165.47722" y2="180" gradientUnits="userSpaceOnUse" id="color-1">
+      <stop offset="0" stop-color="#ff0000"></stop>
+      <stop offset="1" stop-color="#ffc600"></stop>
+    </linearGradient>
+    <linearGradient x1="165.2403" y1="180" x2="240.23823" y2="180" gradientUnits="userSpaceOnUse" id="color-2">
+      <stop offset="0" stop-color="#ffc600"></stop>
+      <stop offset="1" stop-color="#03ff00"></stop>
+    </linearGradient>
+    <linearGradient x1="372.21884" y1="180" x2="305.1572" y2="180" gradientUnits="userSpaceOnUse" id="color-3">
+      <stop offset="0" stop-color="#ff0000"></stop>
+      <stop offset="1" stop-color="#ffc600"></stop>
+    </linearGradient>
+    <linearGradient x1="306.90305" y1="180" x2="239.84141" y2="180" gradientUnits="userSpaceOnUse" id="color-4">
+      <stop offset="0" stop-color="#ffc600"></stop>
+      <stop offset="1" stop-color="#03ff00"></stop>
+    </linearGradient>
+  </defs>
+  <g transform="translate(-87.22645,-160.29006)">
+    <g stroke="none" stroke-width="0" stroke-miterlimit="10">
+      <path d="M87.22645,199.70993v-39.41987h291.26177v39.41987z" fill="#000000"></path>
+      <path d="M93.90294,192.69806v-25.39612h71.57428v25.39612z" fill="url(#color-1)"></path>
+      <path d="M165.2403,192.69806v-25.39612h74.99793v25.39612z" fill="url(#color-2)"></path>
+      <path d="M305.1572,192.69806v-25.39612h67.06164v25.39612z" fill="url(#color-3)"></path>
+      <path d="M239.84141,192.69806v-25.39612h67.06164v25.39612z" fill="url(#color-4)"></path>
+    </g>
+  </g>
+</svg>

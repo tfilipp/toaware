@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="354.5842" height="189.12134" viewBox="0,0,354.5842,189.12134">
+  <g transform="translate(-62.7079,-140.48)">
+    <g stroke-miterlimit="10">
+      <g>
+        <path d="M65.2079,310.54209c0,-7.83761 0,-26.67879 0,-26.67879h349.5842c0,0 0,21.46263 0,29.43867c0,5.46082 -7.63579,13.79938 -20.60706,13.79938c-66.93314,0 -275.93265,0 -310.94595,0c-9.74761,0 -18.03119,-10.38448 -18.03119,-16.55925z" fill="#101419" stroke="#000000" stroke-width="5"></path>
+        <path d="M65.2079,279.26351c0,-30.9769 0,-101.53306 0,-119.59459c0,-8.22623 6.424,-16.68891 14.35136,-16.68891c32.77673,0 254.81337,0 318.30561,0c10.7259,0 16.92723,6.88763 16.92723,13.92903c0,17.52756 0,93.54586 0,124.19439c0,7.97608 -5.84754,12.87942 -16.00727,12.87942c-62.2363,0 -286.28857,0 -319.22557,0c-7.92735,0 -14.35136,-5.67128 -14.35136,-14.71933z" fill="#202933" stroke="#000000" stroke-width="5"></path>
+        <path d="M148.5,315.48232v-20h183v20z" fill-opacity="0.54902" fill="#4d6078" stroke="none" stroke-width="0"></path>
+        <text transform="translate(161.9935,310.48232) scale(0.43337,0.43337)" font-size="40" xml:space="preserve" fill-opacity="0.63922" fill="#a3cdff" stroke="none" stroke-width="1" font-family="&quot;JetBrains Mono&quot;, Sans Serif" font-weight="normal" text-anchor="start">
+          <tspan x="0" dy="0">DrumPad Machine</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

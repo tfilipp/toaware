@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="489" height="367" viewBox="0,0,489,367">
+  <g transform="translate(4.5,3.5)">
+    <g stroke-miterlimit="10">
+      <path d="M-4.5,363.5v-367h489v367z" fill="#323339" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+      <path d="M21,277.89999c0,-3.1548 0,-9.4945 0,-15c0,-5.40148 4.03332,-10 9.60001,-10c33.57275,0 355.70666,0 418,0c6.70534,0 10.39999,6.66476 10.39999,11c0,2.95685 0,8.24143 0,13c0,5.32996 -4.06291,10 -11.39999,10c-64.65948,0 -383.60307,0 -417,0c-5.56669,0 -9.60001,-5.25 -9.60001,-9z" fill="#494a53" stroke="#000000" stroke-width="0" stroke-linecap="butt"></path>
+      <image x="54" y="516.79998" transform="scale(0.5,0.5)" width="46" height="46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAAAXNSR0IArs4c6QAAA4dJREFUaEPVmUtME1EUhiluUFYQhIBgkEeNgEHcCREQa3i0sFDQ8tJEjcGIaNwAC01INGpJgJBgXGkURUREoC34QCi0LtUEWgFLsIogEEQW4M7W9L9cIqW0nc5MzJ3N38w99/Sfb8487hmJD8ftYKrMZp8SHxePmVExUdAdYWHQgIAAqL//Nujy8gp0aWkJOjM9DZ2YnISajJ+gBn2fhIsVTsH2xMwZLzheCtLFRUqACdoexAXQprFzc/MYa21tgz5ra/YIpkdB9oTMGa+qugbSOfIcEPH19fhYOZ0Rmw1/49PdpYbW1t5w+UduXTBnXKVqAILklAOcyAkVbDC8Q6qqyitO4W5KnDnjlZVXQTo3TyEUPF55umjNq66vg7yBOHPG6e2uouICCEkkbq9bpyS/rz4ZB/p1GJfJMqChoaFekad3m/r6RszveN4CY2vumDX+4OET1HZ0NHn38Hbr0fZi6oBuEHooIx2ak53lbUrMGxsfh549fXI9ceaMFxSUgPSlyxd5EaGTNVotfg7q9ND0tFSoXEGevHy3uroGpJAwa7ym5iaIH169+vkS0Wp6kEI3OERqPD2N1Lg8m29qzH/96g0hzqzxe/cfgbhUGisIEbGJj46OEeLMGu94oQbx4OBgl8Tn5slKxThshP6xWZ3Gmz+bsd9i+QqN3BUJjY2NcRq/ReKL/Ql7E6AhIa59/JiZJcSZNd73Vgfifn5bXRJvbn6M8eHhEUGuBcck+xITsau4pNBl/pWV34Q4s8a71b0gHhgY6PJIZ2dJbRlHTFCrD1kjOm5i1/jCwk9CnFnjLa3tQLczIkKQ2hX7Pv7FYiHEmTV+u5as5lOShVnNi018SG8gxJk1XlJ6BsTLys4xUeNNd+4S4swaT07JAHG6ug8PD+dFXqw157epKfgqUuaTNSezxineE8pTIF9efp7UEM++Sn/fAPLIjpC+StjqFwuup5P2VRobmzCV9s/X+irMGqckaFtZkSvnCkeU+K7ObuR17Jdv6LMxa5xiE/rBxPV06IdIf7y6mmN/nFnjlBBtO8sVpObF+gZktZL3e41WA1XdWt8PdzxjbnvJzBqnR3r0WCGQZGZlYld83B6uZes03mQiX5Z7e15COzufuoVpj/MoyB7IrHFHXLl5+TgDSfuTMLRbKoVu9i3/1+Iixs3mCej7Dx9JTavbPYb3rwevJtkT/G/jfwGNITbJUZOYXgAAAABJRU5ErkJggg==" fill="none" stroke="none" stroke-width="0.5" stroke-linecap="butt"></image>
+      <text transform="translate(59.60001,277.90003) scale(0.66667,0.66667)" font-size="40" xml:space="preserve" fill="#ffffff" stroke="none" stroke-width="1" stroke-linecap="butt" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">/</tspan>
+      </text>
+      <path d="M87.60001,258.39999c0,0 0,-60.53517 0,-75.94999c0,-6.74693 7.3168,-14.55 14.2,-14.55c14.22389,0 67.02148,0 90,0c6.64794,0 10.8,6.57914 10.8,12.55c0,14.8807 0,77.94999 0,77.94999z" fill="#494a53" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+      <path d="M218.60001,258.39999c0,0 0,-64.38819 0,-78.94999c0,-5.56968 5.3858,-11.55 11.7,-11.55c22.35913,0 154.16634,0 197.5,0c8.67136,0 13.8,6.57914 13.8,12.55c0,14.8807 0,77.94999 0,77.94999z" fill="#494a53" stroke="none" stroke-width="0" stroke-linecap="butt"></path>
+      <path d="M197.60001,193.89999h-105" fill="none" stroke="#575863" stroke-width="5" stroke-linecap="round"></path>
+      <path d="M92.60001,227.9h105" fill="none" stroke="#575863" stroke-width="5" stroke-linecap="round"></path>
+      <path d="M223.60001,227.9h212" fill="none" stroke="#575863" stroke-width="5" stroke-linecap="round"></path>
+      <path d="M223.60001,195.9h212" fill="none" stroke="#575863" stroke-width="5" stroke-linecap="round"></path>
+    </g>
+  </g>
+</svg>

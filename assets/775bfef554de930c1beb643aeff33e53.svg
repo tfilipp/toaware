@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="119.73526" height="22.55364" viewBox="0,0,119.73526,22.55364">
+  <g transform="translate(-247.67332,-145.94826)">
+    <g stroke="none" stroke-miterlimit="10">
+      <g>
+        <path d="M247.67332,162.73153c0,-4.19681 0,-9.53005 0,-11.83142c0,-2.15712 2.77944,-4.95185 4.88723,-4.95185c2.3415,0 106.3158,0 110.30989,0c2.59361,0 4.53814,3.54538 4.53814,6.06104c0,2.47918 0,7.88265 0,11.83143c0,2.66085 -1.59603,4.66117 -3.83996,4.66117c-4.24104,0 -109.23741,0 -111.70623,0c-1.86818,0 -4.18904,-2.55079 -4.18904,-5.77039z" fill="#f0daff" stroke-width="0"></path>
+        <text transform="translate(259.03214,160.39336) scale(0.19704,0.19008)" font-size="40" xml:space="preserve" fill="#853de0" stroke-width="1" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+          <tspan x="0" dy="0">Описание и публикация</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

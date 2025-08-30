@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="184.23285" height="57.83332" viewBox="0,0,184.23285,57.83332">
+  <g transform="translate(-147.88357,-151.08334)">
+    <g stroke-miterlimit="10">
+      <g>
+        <path d="M149.13357,156.88157c0,-2.33375 2.54931,-4.54823 5.15379,-4.54823c6.27656,0 158.82785,0 170.74608,0c3.57469,0 5.83298,1.75946 5.83298,3.70985c0,5.81984 0,35.36109 0,46.94949c0,1.40763 -2.93511,4.67398 -5.83298,4.67398c-6.54815,0 -158.76151,0 -170.34656,0c-3.41055,0 -5.5533,-1.94937 -5.5533,-5.09318c0,0 -0.00001,-39.55425 -0.00001,-45.69191z" fill="#c1c1c1" stroke="#737373" stroke-width="2.5"></path>
+        <text transform="translate(157.85714,187.89769) scale(0.68452,0.68452)" font-size="40" xml:space="preserve" fill="#000000" stroke="#000000" stroke-width="1" font-family="&quot;JetBrains Mono&quot;, Sans Serif" font-weight="normal" text-anchor="start">
+          <tspan x="0" dy="0">Объединить</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

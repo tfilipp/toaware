@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="137.54286" height="26" viewBox="0,0,137.54286,26">
+  <g transform="translate(-155.20502,-44.30006)">
+    <g stroke="none" stroke-miterlimit="10">
+      <path d="M155.20502,64.17149c0,-14.3969 0,-5.20423 0,-13.37143c0,-3.28654 2.77833,-6.5 5.94286,-6.5c10.48743,0 106.73008,0 125.65714,0c3.73828,0 5.94286,3.21346 5.94286,6.5c0,8.16719 0,-1.02547 0,13.37143c0,3.79215 -2.05898,6.12857 -5.57143,6.12857c-18.52372,0 -115.47157,0 -126.02857,0c-3.16451,0 -5.94286,-2.33642 -5.94286,-6.12857z" fill="#833ae0" stroke-width="0"></path>
+      <text transform="translate(175.84096,61.11378) scale(0.31781,0.31781)" font-size="40" xml:space="preserve" fill="#ffffff" stroke-width="1" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+        <tspan x="0" dy="0">Ввести данные</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

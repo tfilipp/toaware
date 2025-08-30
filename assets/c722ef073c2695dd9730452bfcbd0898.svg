@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="73.33333" height="17.5" viewBox="0,0,73.33333,17.5">
+  <g transform="translate(-301.23938,-103.55)">
+    <g stroke="none" stroke-miterlimit="10">
+      <g>
+        <path d="M301.23938,116.925c0,-9.69022 0,-3.50285 0,-9c0,-2.21209 1.87003,-4.375 4,-4.375c7.05885,0 52.59396,0 65.33333,0c2.51615,0 4,2.16291 4,4.375c0,5.49715 0,-0.69022 0,9c0,2.55241 -1.38585,4.125 -3.75,4.125c-12.46789,0 -58.47766,0 -65.58333,0c-2.12996,0 -4,-1.57259 -4,-4.125z" fill="#833ae0" stroke-width="0"></path>
+        <text transform="translate(315.62189,114.47516) scale(0.18853,0.18853)" font-size="40" xml:space="preserve" fill="#ffffff" stroke-width="1" font-family="Sans Serif" font-weight="normal" text-anchor="start">
+          <tspan x="0" dy="0">В зал славы</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
